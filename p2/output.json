@@ -1,0 +1,2345 @@
+{
+    "http://dist.knute.edu.ua": {
+        "status": 403
+    },
+    "https://knute.edu.ua#": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Vseukrayinski konkursi studentskikh naukovikh robit&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/b/read-news/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://knute.edu.ua/blog/read?n=Centr%20rozvitku%20kar%E2%80%98eri&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "crk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Technology and restaurants&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "htrb-knteu@ukr.net",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr transferu tekhnologiy&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "s.bay@knute.edu.ua",
+            "Gmarichka@gmail.com",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjIxNw==/8a1a8e71ce134bbba2af5710ff0eb7ad.pdf": {
+        "status": 200
+    },
+    "https://knute.edu.ua/blog/read/?pid=44527&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Marketing&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjIxNw==/4ca45d93fd150443da2044f048c0c832.pdf": {
+        "status": 200
+    },
+    "https://knute.edu.ua/blog/read/?pid=44420&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44599&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=33019&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44578&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://knute.edu.ua/blog/read/?pid=7012&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=31013": {
+        "status": 200,
+        "count": 9,
+        "emails": [
+            "hr@ua.ey.com",
+            "oleksandr.yarmak@ua.ey.com",
+            "volunteerslh@gmail.com",
+            "Lyubov.Startseva@ua.ey.com",
+            "knute@knute.edu.ua",
+            "ohorodnik@intertop.ua",
+            "cv_auchanua@auchan.ua",
+            "pk@knute.edu.ua",
+            "tetyana.karpiv@lugera.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=20551&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.uamailto:knute@knute.edu.ua": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/main/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43894&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://test.org.ua": {
+        "status": 403
+    },
+    "https://knute.edu.ua/blog/read/?pid=7399&uk": {
+        "status": 200,
+        "count": 12,
+        "emails": [
+            "t.danchyk@knute.edu.ua",
+            "d.ivashchenko@knute.edu.ua",
+            "s.kravtsov@knute.edu.ua",
+            "v.vins@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "yu.chaichenko@knute.edu.ua",
+            "a.barchukova@knute.edu.ua",
+            "T.Bilous@knute.edu.ua",
+            "o.ivanova@knute.edu.ua",
+            "I.Yatsenyuk@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "n.bieliaieva@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44601&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=7396&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44362&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "v.roganov@knute.edu.ua"
+        ]
+    },
+    "http://www.vobu.com.ua": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=43714&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "vstup@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=984&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pfv@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#announs": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Kontakti": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Navchalniy viddil&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://finance.ua/": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "support@finance.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38224&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=2081&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44624&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43454&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "nv@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44274&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "conf_secs@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43900&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44631&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44570&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1443&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "main@chtei-knteu.cv.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Economic Cybernetics and Information Systems&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://eeas.europa.eu/delegations/ukraine/projects/youth/erasmus_mundus_uk.htm": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "delegation-ukraine@eeas.europa.eu",
+            "delegation-ukraine-press@eeas.europa.eu"
+        ]
+    },
+    "https://www.facebook.com/pages/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BE-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%9A%D0%9D%D0%A2%D0%AD%D0%A3/257199294443241?notif_t=page_name_change": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "http://lib.knute.edu.ua": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua#Vipuskniku1": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Vipuskniku": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://sertificate.knute.edu.ua/": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Journalism and Advertising&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Specializovani vcheni radi&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Management&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Biznes-inkubator&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Public Management and Administration&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pua@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "n.l.novikova@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43472&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43711&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=27480&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=inozemnoyi filologiyi ta perekladu&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Physical Education&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "knteusport@ukr.net",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=42619&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr rozvitku kar\u00e2\u0080\u0098eri&uk": {
+        "status": 500
+    },
+    "https://knute.edu.ua/blog/read?n=ftm&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44632&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=31206&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "cp_nmv@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44628&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44568&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of engineering disciplines&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44454&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "K.Luhova.FMTP.073.20@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "katerina.lugovaia@gmail.com",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=16854&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1206&uk": {
+        "status": 200,
+        "count": 11,
+        "emails": [
+            "pfv@knute.edu.ua",
+            "cdp@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "interdept@knute.edu.ua",
+            "cpzno@ukr.net",
+            "info@knute.edu.ua",
+            "pviog@knute.edu.ua",
+            "cd@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "eecenter@knute.edu.ua",
+            "ivk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=femp&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43862": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1038&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1467&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "btek@mail.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44590&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44629&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=7964&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44571&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=24457&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1350&uk": {
+        "status": 200,
+        "count": 7,
+        "emails": [
+            "RGPP_Enrollment@ceu.edu",
+            "knute@knute.edu.ua",
+            "interdept@knute.edu.ua",
+            "fyudr.yanina@gmail.com",
+            "RGPP_Enrollment@ceu.edu.",
+            "pk@knute.edu.ua",
+            "fyudr.yanina@gmail.com."
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1999&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.mon.gov.ua/": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "informzapyt@mon.gov.ua",
+            "ez@mon.gov.ua"
+        ]
+    },
+    "https://t.me/knteu": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=44369&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#empty_tab": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Hotel and catering and tourism&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "htrb-knteu@ukr.net",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Commodity and examination of food&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "k@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Modern European Languages&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38232&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "crk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43710&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=svitovoyi ekonomiki&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "worldeconomy@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44581&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "workshop_ipzc@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44371&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "vstup@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44595&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44607&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44523&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44630&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://ntsadtamv.knute.edu.ua/": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "ntsad_knteu@ukr.net"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44580&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjIxNw==/31431db604d8b35f7a71d575e02a4abd.pdf": {
+        "status": 200
+    },
+    "https://knute.edu.ua/blog/read/?pid=44627&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=36609&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=36989&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1023&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1473&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "utek.knteu@ukr.net",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1455&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "kepk.km@gmail.com",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38710&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1470&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "ztek@meta.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=23419&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44596&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=6163&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "crk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=16734&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#advertisement": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.erasmusplus.org.ua/": {
+        "status": 403
+    },
+    "https://knute.edu.ua/blog/read/?pid=44591&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43796&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.uamailto:pk@knute.edu.ua": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=JUridichna klinika Centr pravovogo zakhistu&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38150&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://bsc.knute.edu.ua/": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "nncbs@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=584&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://cdn.knute.edu.ua/": {
+        "status": 200,
+        "count": 7,
+        "emails": [
+            "scherbachenko@knute.edu.ua",
+            "info@knute.edu.ua",
+            "o.leschenko@knute.edu.ua",
+            "v.suprovoddn@knute.edu.ua",
+            "v.roganov@knute.edu.ua",
+            "mathjax@2.7.9",
+            "v.suprovoddn@knute.edu.ua."
+        ]
+    },
+    "http://journals.knute.edu.ua/foreign-trade/pro_journal": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "zt@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44606&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.president.gov.ua": {
+        "status": 403
+    },
+    "https://knute.edu.ua/blog/read/?pid=44118&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://knute.edu.ua/blog/read/?pid=2017&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Psychology&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Vseukrayinski studentski olimpiadi&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.pard.ua/": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "pard@pard.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Naukovo-doslidna ta inovaciyna dijalmbnistmb&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=14646&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.minfin.gov.ua/": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "presa@minfin.gov.ua",
+            "infomf@minfin.gov.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44573&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44072&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=24326&uk": {
+        "status": 200,
+        "count": 23,
+        "emails": [
+            "Sergeykuzin2004@gmail.com",
+            "rss@knute.edu.ua",
+            "zhukovavitalina2@gmail.com",
+            "dianastrelchuk123456789@gmail.com",
+            "darina.kovaleva555@icloud.com",
+            "D_Malovanyy_FEMP_18_9_B_d@knute.edu.ua",
+            "p.slyvko@gmail.com",
+            "S_Skolyboh_FTM_18_18_B_d@knute.edu.ua",
+            "nalozhytova@gmail.com",
+            "katgur02@gmail.com",
+            "M_Kryvsha_FMTP_18_1_B_d@knute.edu.ua",
+            "beliachka.alina@gmail.com",
+            "maxtera08@gmail.com",
+            "N_Yankova_FFBS_17_6_B_d@knute.edu.ua",
+            "Nastyabest505@gmail.co",
+            "Diana_gokhberg24@ukr.net",
+            "pastarnakmaksim@ukr.net",
+            "art.chizhovv@gmail.com",
+            "knute@knute.edu.ua",
+            "maximkomlik2003@gmail.com",
+            "4ubaysd@gmail.com",
+            "pk@knute.edu.ua",
+            "julykoden@gmail.com"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43903&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://ivk.knute.edu.ua/": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "http://knute.edu.ua/blog/read/?pid=2047&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Enterprise Trade&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1086&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "rss@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1359&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=fit&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "knute@knute.edu.ua",
+            "a.kharchenko@knute.edu.ua",
+            "xaa_07@ukr.net",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1362&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://t.me/knteu_vstup": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=43899&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38221&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "crk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#forstudent": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr proforientaciynoyi roboti&uk": {
+        "status": 200,
+        "count": 5,
+        "emails": [
+            "l.yaroshenko@knute.edu.ua",
+            "cpr@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "h.zyabchenkova@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43126&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=16816&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=8293&uk": {
+        "status": 200,
+        "count": 5,
+        "emails": [
+            "s.kravtsov@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "a.barchukova@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "n.bieliaieva@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=42382&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Finance&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://knute.edu.ua/blog/read/?pid=7024&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of merchandise and expertise nonfood&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43898&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=38987&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44594&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44603&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44546&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/language/set?lang=en&uk": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "knute@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1347&uk": {
+        "status": 200,
+        "count": 5,
+        "emails": [
+            "sasha_yakubenko@knteu.kiev.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "n.a.mazaraki@gmail.com",
+            "say@knteu.kiev.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1356&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjIxNw==/e345622318e78d4b57e252793340f69f.pdf": {
+        "status": 200
+    },
+    "https://online.oschadbank.ua/wb/": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "http://nvo.kioto.kiev.ua": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "nvo@knteu.kiev.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Economics and Finance Company&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "debf@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=ffo&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://sertificate.knute.edu.ua": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read?n=frgtb&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "frh@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43860&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Law&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43480&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "mastertest@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43901&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1482&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "info@chvku.cv.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1479&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "uzhgorodvku6@ukr.net"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43716&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=7654&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.me.gov.ua/": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=44543&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://labcomplex.com/?lang=ru": {
+        "status": 403
+    },
+    "http://knute.edu.ua/blog/read?n=JUridichna%20klinika%20Centr%20pravovogo%20zakhistu&uk/": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Naukovi_zhurnali": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=informaciynikh tekhnologiy u mizhnarodniy torgivli&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "compdep@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=2121&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=37662&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "yu.burlachuk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "o.nuzhnenko@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://cps.knute.edu.ua": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=1461&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "knute@knute.edu.ua",
+            "mail@ktek.km.ua",
+            "pk@knute.edu.ua",
+            "bukh@ktek.km.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=2017&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Economic Theory and Competition Policy&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Commercial Law&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=8541&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "knteu@knteu.kiev.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Pres_centr": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=10008&uk": {
+        "status": 200,
+        "count": 6,
+        "emails": [
+            "t.danchyk@knute.edu.ua",
+            "d.ivashchenko@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "interdept@knute.edu.ua",
+            "interdept@knute.edu.ua.",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.treasury.gov.ua/uk/index": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/b/read-allnnoun/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Financial Analysis and Control&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44577&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1293&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Nauka&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department Software Engineering and Information Systems&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "progen@ukr.net",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Institute of higher qualification&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "ivk@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of International Economics&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "zed@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44552&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1446&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "info@utei-knteu.org.ua"
+        ]
+    },
+    "https://knute.edu.ua/student-office": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=44516&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://www.bank.gov.ua/control/uk/index": {
+        "status": 404
+    },
+    "https://knute.edu.ua#news": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/achievements": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=23339&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=2047&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://ntsadtamv.knute.edu.ua": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "ntsad_knteu@ukr.net"
+        ]
+    },
+    "http://www.youtube.com/user/kyotostreet": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "wght@300..900"
+        ]
+    },
+    "http://nobel.knute.edu.ua": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=26360&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1452&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "vtet@mail.vinnica.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MTc=/53b99ac9c3740c64d312347a73342880.pdf": {
+        "status": 200
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Banking&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=42431&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44357&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/language/set?lang=uk&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=26633&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=16857&uk": {
+        "status": 200,
+        "count": 15,
+        "emails": [
+            "pfv@knute.edu.ua",
+            "ftm@knute.edu.ua",
+            "fmtp.dekanat@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "interdept@knute.edu.ua",
+            "fit@knute.edu.ua",
+            "libr@knute.edu.ua",
+            "info@knute.edu.ua",
+            "frh@knute.edu.ua",
+            "staff@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "legal@knute.edu.ua",
+            "crk@knute.edu.ua",
+            "stopcorruption@knute.edu.ua",
+            "buh@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=6157&uk": {
+        "status": 200,
+        "count": 14,
+        "emails": [
+            "o.shyshkina@knute.edu.ua",
+            "n.miroshnik@knute.edu.ua",
+            "7space.knute@gmail.com",
+            "knute@knute.edu.ua",
+            "i.kanibolotska@knute.edu.ua",
+            "g.bazylyuk@knute.edu.ua",
+            "berkkiras81@icloud.com",
+            "sergeykuzin2004@gmail.com",
+            "t.vatskovska@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "S_Skolyboh_FTM_18_18_B_d@knute.edu.ua",
+            "o.lukina@knute.edu.ua",
+            "Nastyabest505@gmail.com",
+            "K.Paliy.FTM.035.20@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Statistics and econometrics&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://ec.europa.eu/programmes/erasmus-plus/index_en.htm": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=43843&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "v.razitskyy@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43718&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "vstup@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=20343&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "eecenter@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjkwMjQ=/1045c0ca6228d3600ae1359d2699d4a7.pdf": {
+        "status": 200
+    },
+    "http://www.magna-charta.org/": {
+        "status": 200,
+        "count": 0,
+        "emails": []
+    },
+    "https://knute.edu.ua/blog/read/?pid=1353&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr testuvannja ta monitoringu znanmb&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1458&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "Kharkiv@htek.com.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr ukladannja dogovoriv&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "cd@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://journals.knute.edu.ua/commodities-and-markets/pro_journal": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "tr@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department%20of%20Finance&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44605&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43884&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/file/MjIxNw==/bd47492ce9bc4ac4d021bc6d9bd99123.pdf": {
+        "status": 200
+    },
+    "https://knute.edu.ua#Priymalmbna_komisija": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1449&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "ktepcknute.kyiv.ua@gmail.com",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Institute%20of%20higher%20qualification&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "ivk@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44540&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44563&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1437&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "secretarvtei@ukr.net",
+            "knute@knute.edu.ua",
+            "vtei_knteu@ukr.net",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://linkedin.com/edu/school?id=164139": {
+        "status": 999
+    },
+    "https://knute.edu.ua/blog/read/?pid=5&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/our-videos/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=19191&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Biddilennja dovuzivsmbkoyi pidgotovki inozemnikh gromadjan&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "pviog@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=ipcc-law&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=1254&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "info@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Higher and Applied Mathematics&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43717&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "knute@knute.edu.ua",
+            "paralel@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Spivrobitnik": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/gallery/view?id=290&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43902&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Centr dovuzivsmbkoyi pidgotovki&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44541&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Navchalmbno-metodichniy viddil&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/gallery/show-all/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44421&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=36068&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of Accounting&uk": {
+        "status": 200,
+        "count": 4,
+        "emails": [
+            "knute@knute.edu.ua",
+            "kbo@knute.edu.ua",
+            "kboknteu@ukr.net",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=44027&uk": {
+        "status": 200,
+        "count": 63,
+        "emails": [
+            "osyka@knute.edu.ua",
+            "t.lapenko@knute.edu.ua",
+            "o.korenyuk@knute.edu.ua",
+            "n.annenkova@knute.edu.ua",
+            "frh@knute.edu.ua",
+            "shestack@knute.edu.ua",
+            "m.sehen@knute.edu.ua",
+            "k.khorolska@knute.edu.ua",
+            "o.holik@knute.edu.ua",
+            "o.vasyleva@knute.edu.ua",
+            "eecenter@knute.edu.ua",
+            "nmv.knute@knute.edu.ua",
+            "v.zhuchenko@knute.edu.ua",
+            "nncbs@knute.edu.ua",
+            "y.golovnia@knute.edu.ua",
+            "d.antonenko@knute.edu.ua",
+            "fmtp.dekanat@knute.edu.ua",
+            "t.scherbakova@knute.edu.ua",
+            "mba2005@ukr.net",
+            "cppd@knute.edu.ua",
+            "m.fokina@knute.edu.ua",
+            "hnatchenko@knute.edu.ua",
+            "y.goncharova@knute.edu.ua",
+            "dekanat_z_fmtp@knute.edu.ua",
+            "n.valyarchuk@knute.edu.ua",
+            "l.romanchuk@knute.edu.ua",
+            "y.porokhnyak@knute.edu.ua",
+            "n.dubinina@knute.edu.ua",
+            "v.lynnyk@knute.edu.ua",
+            "n.teslenko@knute.edu.ua",
+            "o.sysa@knute.edu.ua",
+            "antonenko@knute.edu.ua",
+            "o.kharchenko@knute.edu.ua",
+            "n.peleshko@knute.edu.ua",
+            "t.morozova@knute.edu.ua",
+            "t.pashkuda@knute.edu.ua",
+            "v.komakha@knute.edu.ua",
+            "o.avdan@knute.edu.ua",
+            "e.zhuk@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "s.kaminskyj@knute.edu.ua",
+            "r.zhuykova@knute.edu.ua",
+            "v.mykhaylovskyy@knute.edu.ua",
+            "pviog@knute.edu.ua",
+            "staff@knute.edu.ua",
+            "o.vinnichenko@knute.edu.ua",
+            "legal@knute.edu.ua",
+            "crk@knute.edu.ua",
+            "L.yaroshenko@knute.edu.ua",
+            "i.lazebna@knute.edu.ua",
+            "o.miniailo@knute.edu.ua",
+            "t.lositska@knute.edu.ua",
+            "v.lazorenko@knute.edu.ua",
+            "a.kharchenko@knute.edu.ua",
+            "m.nezhyva@knute.edu.ua",
+            "v.osyka@knute.edu.ua",
+            "a.antonyuk@knute.edu.ua",
+            "t.kaneva@knute.edu.ua",
+            "O.hrona@knute.edu.ua",
+            "pk@knute.edu.ua",
+            "l.beleshko@knute.edu.ua",
+            "n.yashchenko@knute.edu.ua",
+            "n.shapovalova@knute.edu.ua"
+        ]
+    },
+    "http://journals.knute.edu.ua/scientia-fructuosa/pro_journal": {
+        "status": 200,
+        "count": 1,
+        "emails": [
+            "visnik@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/b/show-all-ads/?uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=43792&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=6160&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department%20of%20engineering%20disciplines&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=3&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=fmtp&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read/?pid=35445&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#Nasha_gordist": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua#consumer": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "https://knute.edu.ua/blog/read?n=Department of tourism and recreation&uk": {
+        "status": 200,
+        "count": 3,
+        "emails": [
+            "tourism-recreation@knute.edu.ua",
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    },
+    "http://rest.art.kitchen.tilda.ws/": {
+        "status": 403
+    },
+    "https://knute.edu.ua/blog/read?n=Centr evropeyskoyi osviti&uk": {
+        "status": 200,
+        "count": 2,
+        "emails": [
+            "knute@knute.edu.ua",
+            "pk@knute.edu.ua"
+        ]
+    }
+}
